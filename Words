@@ -1,0 +1,16 @@
+class Words {
+    public static void main(String[] args){
+        String words[][] = {
+            {"a", "bc", "l"},
+            {"He", "!", "lo"},
+            {"!!", "der"}
+        };
+
+        System.out.print(words[1][0]);
+        System.out.print(words[0][2]);
+        System.out.print(words[1][2]);
+        System.out.print(words[2][0]);
+
+    }
+    
+}
