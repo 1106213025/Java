@@ -1,0 +1,13 @@
+class booleon2
+  {
+    public static void main(String[] agrs){
+        int num = 3;
+
+        System.out.println(num < 5);
+        System.out.println(num <= 5);
+        System.out.println(num > 5.44);
+        System.out.println(num >= 5.1f);
+
+    }
+    
+}
